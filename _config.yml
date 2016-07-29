@@ -1,4 +1,5 @@
-layout_spectrum: 0.7816189
+layout_spectrum: 0.9569983
+typography_spectrum: 0.5247825
 color:
   saturation: 0.5177066
   lightness: 0.5092749
@@ -10,5 +11,4 @@ color:
     - '#FF8EFF'
     - '#917C5F'
   rhythmicContrast: 0.5404721
-typography_spectrum: 0.5247825
 name: DustinIngham
