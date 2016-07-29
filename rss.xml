@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DustinIngham]]></title>
         <description><![CDATA[DustinIngham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dustiningham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 06:34:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jul 2016 06:34:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dustiningham/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cdf7c9b-32e1-465f-937e-0fc40bc41993.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cdf7c9b-32e1-465f-937e-0fc40bc41993.jpg</link>
+            <guid isPermaLink="false">3e4b210c-3468-45fe-b16f-b046f39c9673</guid>
+            <pubDate>Fri, 29 Jul 2016 06:34:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ad4bd6c-b24a-46fe-8631-07401edc42da.jpg">]]></description>
